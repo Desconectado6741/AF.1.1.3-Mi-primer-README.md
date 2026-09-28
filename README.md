@@ -16,7 +16,7 @@ git clone https://github.com/Desconectado6741/AF.1.1.3-Mi-primer-README.md
 
 ## Enlace al proyecto
 
-`https://github.com/Desconectado6741/AF.1.1.3-Mi-primer-README.md`
+`https://github.com/Desconectado6741/AF.1.1.3-Mi-primer-README.md.git`
 
 ## Tareas
 
