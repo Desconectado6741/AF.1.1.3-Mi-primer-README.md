@@ -22,8 +22,8 @@ git clone https://github.com/Desconectado6741/AF.1.1.3-Mi-primer-README.md
 
 - [x] Crear el repositorio
 - [x] Crear el README:md
-- [] Añadir más información
-- [] Mejorar la documentación
+- [ ] Añadir más información
+- [ ] Mejorar la documentación
 
 # Autor
 - Juan Manuel Ávila Lozano
